@@ -35,7 +35,7 @@ Próximamente, DMC pondrá a disposición la [grabación](https://dmc.stringnetl
 
 - [The role of MLOps on effective AI](https://medium.com/rappibank/the-role-of-mlops-on-effective-ai-dda75d638805)
 
-- [Blog NVidia: ¿Qué es MLOps?](https://la.blogs.nvidia.com/2020/09/08/que-es-mlops/)
+- [¿Qué es MLOps?](https://la.blogs.nvidia.com/2020/09/08/que-es-mlops/)
 
 - [Deploy your machine learning pipelines](https://medium.com/@igorzabukovec/deploy-your-machine-learning-pipelines-28007b985202)
 
