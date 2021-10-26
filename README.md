@@ -4,7 +4,7 @@ Presentación del 21-Oct-2021
 
 Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "Descargar Como.." en este [ENLACE](docs/Workshop_MLOps_AI_Summit.pdf)
 
-Próximamente, DMC pondrá a disposición la [grabación](https://dmc.stringnetlab.com/inicio) en la plataforma del evento:
+Ya se encuentra disponible la [grabación](https://dmc.stringnetlab.com/inicio) en la plataforma del evento (sólo para usuarios con credenciales de acceso):
 
 [![IMAGEN](docs/MLOps.png)](https://dmc.stringnetlab.com/inicio)
 
